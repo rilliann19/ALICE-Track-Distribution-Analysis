@@ -16,7 +16,7 @@ Using experimental data from the ALICE detector at the LHC, this C++ project imp
 ## 📸 Sample Output
 
 _Example plot goes here_  
-👉 _(We’ll add this in the next step!)_
+👉 _<img src="plots/detection24.pdf" width="600"/>_
 
 ## 🧠 Key Features
 
