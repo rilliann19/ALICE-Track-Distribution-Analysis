@@ -14,8 +14,7 @@ Using experimental data from the ALICE detector at the LHC, this C++ project imp
 - Physics-inspired anomaly detection
 
 ## 📸 Sample Output
-
-_Example plot goes here_  
+ 
 👉 _<img src="plots/detection50.png" width="600"/>_
 
 ## 🧠 Key Features
